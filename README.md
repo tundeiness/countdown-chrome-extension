@@ -3,7 +3,7 @@
 A Countdown app implemented with react and usable as a chrome extension. 
 
 
-![countdown-peek](https://user-images.githubusercontent.com/25479050/97707501-ab49a600-1ab7-11eb-86dd-00d18c1e93ce.gif)
+![countdown](https://user-images.githubusercontent.com/25479050/97707501-ab49a600-1ab7-11eb-86dd-00d18c1e93ce.gif)
 
 ## :computer: Getting Started
 
