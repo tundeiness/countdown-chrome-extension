@@ -1,4 +1,4 @@
-build() {
+build_react() {
     echo 'building react'
 
     # react generate file name with hash
