@@ -16,4 +16,7 @@ build_react() {
     # copy from build to dist, build could still be used by 'npm run start'
     mkdir -p dist
     cp -r build/* dist
+
+    mv dist/index.html dist/popup.html
 }
+
